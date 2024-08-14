@@ -7,7 +7,7 @@
 <br>
 
 <div style="text-align: center;">
-  <h2>Hi there 👋 I'm Talia Moura</h2>
+  <h2>👋 Hi There!</h2>
 </div>
 
 - 💼 I’m currently working at Nextios as a product intern.
