@@ -46,5 +46,13 @@
   <a href="https://instagram.com/taah_moura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
 </div>
 
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahMoura/TahMoura/output/github-contribution-grid-snake-dracula.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TahMoura/TahMoura/output/github-contribution-grid-snake-dracula.svg">
+  </picture>
+</div>
+
+
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5C6B&height=120&section=footer">
